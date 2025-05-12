@@ -1,3 +1,4 @@
+
 const express = require('express');
 require('dotenv').config();  // Make sure environment variables are loaded
 require('./config/database');
